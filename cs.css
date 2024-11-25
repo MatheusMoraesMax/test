@@ -1,0 +1,22 @@
+body {
+color: rgb(108, 107, 107);
+    font-family: Impact;
+    background-image:url(10579352.jpg);
+}
+.container{
+    background-color: black;
+
+height: 150vh;
+}
+#tempo {
+    font-size: 48px;
+    color: white;
+}
+H1
+{
+font-size: 70px;
+}
+#clicar1{
+    height: 25vh;
+    background-size: 100;
+};
